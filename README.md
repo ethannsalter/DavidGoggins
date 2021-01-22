@@ -1,2 +1,2 @@
-pip install -r requirements.env
+pip install -r requirements.txt
 
