@@ -2,7 +2,7 @@ pip install -r requirements.txt
 
 DISCORD_TOKEN=<802313688103124992>
 
-
+python3 bot.py
 import discord
 import os
 import asyncio
